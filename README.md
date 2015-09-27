@@ -1,2 +1,2 @@
 # Test_Rep
-This is Githab Test Repository (GTR)
+This is GitHub Test Repository (GTR)
